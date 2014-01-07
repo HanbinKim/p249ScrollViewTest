@@ -21,6 +21,7 @@
 		00C1CF25187BCF39003D4C1E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C1CF07187BCF39003D4C1E /* UIKit.framework */; };
 		00C1CF2D187BCF39003D4C1E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00C1CF2B187BCF39003D4C1E /* InfoPlist.strings */; };
 		00C1CF2F187BCF39003D4C1E /* p249ScrollViewTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00C1CF2E187BCF39003D4C1E /* p249ScrollViewTestTests.m */; };
+		00C1CF39187BCF92003D4C1E /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 00C1CF38187BCF92003D4C1E /* apple.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00C1CF2A187BCF39003D4C1E /* p249ScrollViewTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "p249ScrollViewTestTests-Info.plist"; sourceTree = "<group>"; };
 		00C1CF2C187BCF39003D4C1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00C1CF2E187BCF39003D4C1E /* p249ScrollViewTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = p249ScrollViewTestTests.m; sourceTree = "<group>"; };
+		00C1CF38187BCF92003D4C1E /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00C1CF09187BCF39003D4C1E /* p249ScrollViewTest */ = {
 			isa = PBXGroup;
 			children = (
+				00C1CF38187BCF92003D4C1E /* apple.png */,
 				00C1CF12187BCF39003D4C1E /* AppDelegate.h */,
 				00C1CF13187BCF39003D4C1E /* AppDelegate.m */,
 				00C1CF15187BCF39003D4C1E /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				00C1CF1C187BCF39003D4C1E /* Images.xcassets in Resources */,
 				00C1CF0E187BCF39003D4C1E /* InfoPlist.strings in Resources */,
+				00C1CF39187BCF92003D4C1E /* apple.png in Resources */,
 				00C1CF17187BCF39003D4C1E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
